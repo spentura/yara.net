@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaraNet.Interop", "YaraNet.Interop\YaraNet.Interop.csproj", "{2055C314-89DF-491B-A6CE-AE6F80586814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaraNet", "YaraNet\YaraNet.csproj", "{ACFAEFA7-931E-4347-887C-B48B8655957D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2055C314-89DF-491B-A6CE-AE6F80586814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2055C314-89DF-491B-A6CE-AE6F80586814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2055C314-89DF-491B-A6CE-AE6F80586814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2055C314-89DF-491B-A6CE-AE6F80586814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACFAEFA7-931E-4347-887C-B48B8655957D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFAEFA7-931E-4347-887C-B48B8655957D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFAEFA7-931E-4347-887C-B48B8655957D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFAEFA7-931E-4347-887C-B48B8655957D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
